@@ -1,0 +1,9 @@
+*ADMIN
+1. email     : prajnacantik@gmail.com
+   password  : prajna
+2. email     : kennyjelek@gmail.com
+   password  : kenny
+
+*MEMBER
+1. email     : prajnauser@gmail.com
+   password  : 12345678 
